@@ -1,0 +1,8 @@
+package.json
+package-lock.json
+node_modules
+.next
+.vscode
+coverage
+next.config.js
+next.config.__vercel_builder_backup__.js
